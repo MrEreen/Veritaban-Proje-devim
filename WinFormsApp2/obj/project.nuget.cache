@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "t1AcJ+3DFQUuoPwWdaItm3ofLlg8rIzuS5iLPZ4XHURwjY0tHsdzsmVbFi2f2H7RjzbzSVoINqIUqiwNQOX3Qg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\erenk\\source\\repos\\WinFormsApp2\\WinFormsApp2.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\erenk\\.nuget\\packages\\npgsql\\6.0.1\\npgsql.6.0.1.nupkg.sha512",
+    "C:\\Users\\erenk\\.nuget\\packages\\system.diagnostics.diagnosticsource\\6.0.0\\system.diagnostics.diagnosticsource.6.0.0.nupkg.sha512",
+    "C:\\Users\\erenk\\.nuget\\packages\\system.memory\\4.5.4\\system.memory.4.5.4.nupkg.sha512",
+    "C:\\Users\\erenk\\.nuget\\packages\\system.runtime.compilerservices.unsafe\\6.0.0\\system.runtime.compilerservices.unsafe.6.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
